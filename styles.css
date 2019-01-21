@@ -71,7 +71,7 @@ li a::after {
     z-index: 2;
 }
 
-.landing-screen:hover::after{
+.landing-screen::after{
     content: '';
     position: absolute;
     left: 0;
